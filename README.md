@@ -1,7 +1,13 @@
 ### Hi, I'm Santiago Cisneros 👋
-   A software developer from Argentina
+   ### A software developer from Argentina
+   
+   -🌱 I’m currently exploring new technologies 
+   -👯I am looking to collaborate in different projects that help me develop my technical and personal skills
+   -⚡I'm interested to learn data science
+   
+   
 <!--
-                                 A software developer from Argentina
+                     
 
 Here are some ideas to get you started:
 

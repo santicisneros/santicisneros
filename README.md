@@ -1,9 +1,9 @@
-### Hi, I'm Santiago Cisneros 👋
+## Hi, I'm Santiago Cisneros 👋
    ### A software developer from Argentina
    
-   -🌱 I’m currently exploring new technologies 
-   -👯I am looking to collaborate in different projects that help me develop my technical and personal skills
-   -⚡I'm interested to learn data science
+   -🌱 I am currently learning about different technologies and putting them in practice with projects  <br />
+   -👯I am looking to collaborate in different projects that help me develop my technical and personal skills<br />
+   -⚡I'm interested to learn data science<br />
    
    
 <!--

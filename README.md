@@ -3,7 +3,7 @@
    
    -🌱 I am currently learning about different technologies and putting them in practice with projects  <br />
    -👯I am looking to collaborate in different projects that help me develop my technical and personal skills<br />
-   -⚡I'm interested to learn data science<br />
+   
    
    
 <!--
